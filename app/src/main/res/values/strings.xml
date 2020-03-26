@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirebaseDemoApp</string>
+    <string name="hint">Enter your email id</string>
+
+</resources>
